@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.nitesh{
+  display: table-footer-group;
+  /* grid-template-columns: repeat(4, 1fr); */
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  /* background: #87395d; */
+  padding: 10px 15px;
+  border-radius: 5px;
+  margin-right: initial;
+  text-align: center; 
+ }
+ .rat{
+  /* display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 300px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  background: #f4f4f4;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-align: center; */
+ }
+
+ /* .edit{
+  margin-left: 310px;
+  margin-top: 30px;
+ } */
+ .nit1{
+  /* display: grid; */
+  grid-template-columns: repeat(4, 1fr);
+  gap: 200px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-bottom: 50opx;
+  background: #3b433b;
+  color: whitesmoke;
+  padding: 60px 15px;
+  border-radius: 5px;
+  text-align: center;
+  margin-right: 50px;
+ }
+ .rna{
+  /* display:inline-table; */
+  grid-template-columns: repeat(4, 1fr);
+  gap: 100px;
+  /* justify-content: space-between; */
+  align-items: center;
+  margin-bottom: 200px;
+  /* color: silver; */
+  background: #d4d8d4;
+  padding: 10px 45px;
+  border-radius: 0px;
+  /* background: #dfaea1; */
+  text-align: center;
+ }
+ 
